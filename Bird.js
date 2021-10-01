@@ -9,4 +9,7 @@ class Bird extends BaseClass {
     this.body.position.y = mouseY;
     super.display();
   }
+  function fly () {
+    //code to fly 
+    {
 }
